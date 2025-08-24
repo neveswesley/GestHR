@@ -1,0 +1,5 @@
+﻿using GestHR.Domain.Entities;
+
+namespace GestHR.Domain.Repositories;
+
+public interface IPositionRepository : IBaseRepository<Position>;
