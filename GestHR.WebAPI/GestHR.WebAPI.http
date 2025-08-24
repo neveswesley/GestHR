@@ -1,0 +1,6 @@
+@GestHR.WebAPI_HostAddress = http://localhost:5148
+
+GET {{GestHR.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

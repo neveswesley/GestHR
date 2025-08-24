@@ -1,0 +1,12 @@
+D:\Projetos\GestHR\GestHR.Domain\bin\Debug\net8.0\GestHR.Domain.deps.json
+D:\Projetos\GestHR\GestHR.Domain\bin\Debug\net8.0\GestHR.Domain.dll
+D:\Projetos\GestHR\GestHR.Domain\bin\Debug\net8.0\GestHR.Domain.pdb
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.AssemblyInfoInputs.cache
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.AssemblyInfo.cs
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.sourcelink.json
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.dll
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\refint\GestHR.Domain.dll
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\GestHR.Domain.pdb
+D:\Projetos\GestHR\GestHR.Domain\obj\Debug\net8.0\ref\GestHR.Domain.dll
