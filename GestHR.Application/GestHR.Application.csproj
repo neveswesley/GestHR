@@ -10,4 +10,13 @@
         <ProjectReference Include="..\GestHR.Domain\GestHR.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="UseCases\Employee\Commands\DeleteEmployee\" />
+      <Folder Include="UseCases\Employee\Commands\UpdateEmployee\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MediatR" Version="13.0.0" />
+    </ItemGroup>
+
 </Project>
